@@ -58,7 +58,7 @@ Mesa de RPG virtual funcional desenvolvida com engenharia de prompt e IA: criaç
 Sistema para digitalizar uma moeda interna escolar, com gerenciamento de usuários, saldo, transações e produtos.
 
 ### 🕵️ Arquivo 77 — `IA`
-Jogo investigativo ambientado na Ditadura Militar Brasileira, com concepção, sistemas e mecânicas próprios, apoiado em pesquisa histórica.
+Jogo investigativo com concepção, sistemas e mecânicas próprios, apoiado em pesquisa histórica.
 
 ---
 
